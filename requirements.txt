@@ -1,0 +1,6 @@
+flask
+gunicorn
+requests
+twilio
+python-dotenv
+beautifulsoup4
